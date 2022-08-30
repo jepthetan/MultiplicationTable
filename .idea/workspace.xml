@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6cd120-8fc8-4ac2-8db4-722b6218a71c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/build/classes/java/main/com/tw/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/build/classes/java/main/com/tw/MultiplicationTable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice-multiplication-table/src/main/java/com/tw/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/src/main/java/com/tw/MultiplicationTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +68,7 @@
     "last_opened_file_path": "D:/practice-multiplication-table"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MultiplicationTableTest.should_return_multiplication_line_when_multiply_given_start_2_and_row_5">
+  <component name="RunManager" selected="JUnit.MultiplicationTableTest.should_return_multiply_table_when_multiply_given_start_number_2_end_number_5">
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tw.MultiplicationTable" />
       <module name="multiplication-table-practice.main" />
@@ -87,29 +96,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;com.tw.MultiplicationTableTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="MultiplicationTableTest.should_return_multiply_table_when_multiply_given_start_number_2_end_number_5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/practice-multiplication-table" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.tw.MultiplicationTableTest.should_return_multiply_table_when_multiply_given_start_number_2_end_number_5&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -151,6 +137,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiplicationTableTest.should_return_multiply_table_when_multiply_given_start_number_2_end_number_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="multiplication-table-practice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.MultiplicationTableTest" />
+      <option name="METHOD_NAME" value="should_return_multiply_table_when_multiply_given_start_number_2_end_number_5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiplicationTableTest.should_return_null_when_multiply_given_start_number_2_end_number_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="multiplication-table-practice.test" />
       <extension name="coverage">
@@ -169,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MultiplicationTableTest.should_return_multiply_table_when_multiply_given_start_number_2_end_number_5" />
         <item itemvalue="JUnit.MultiplicationTableTest.should_return_multiplication_line_when_multiply_given_start_2_and_row_5" />
         <item itemvalue="JUnit.MultiplicationTableTest.should_return_multiplication_expression_when_multiply_given_multiplicand_2_and_multiplier_3" />
         <item itemvalue="Gradle.MultiplicationTableTest" />
         <item itemvalue="JUnit.MultiplicationTableTest.should_return_null_when_multiply_given_start_number_2_end_number_1" />
-        <item itemvalue="Gradle.MultiplicationTableTest.should_return_multiply_table_when_multiply_given_start_number_2_end_number_5" />
       </list>
     </recent_temporary>
   </component>
