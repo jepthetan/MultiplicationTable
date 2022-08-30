@@ -2,7 +2,7 @@ package com.tw;
 
 public class MultiplicationTable {
     public String create(int start, int end) {
-        return null;
+        return isValid(start, end) ? generateTable(start, end) : null;
     }
 
     public Boolean isValid(int start, int end) {
@@ -37,5 +37,14 @@ public class MultiplicationTable {
         int product = multiplicand * multiplier;
         String expression = multiplicand + "*" + multiplier +  "=" + product;
         return expression;
+    }
+    public static void main(String[] args) {
+        int num1 = 3;
+        int num2 = 5;
+
+        MultiplicationTable mt = new MultiplicationTable();
+        String output = mt.create(num1, num2);
+
+        System.out.println(output);
     }
 }

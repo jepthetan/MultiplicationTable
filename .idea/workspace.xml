@@ -5,6 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6cd120-8fc8-4ac2-8db4-722b6218a71c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/6.5.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/build/classes/java/main/com/tw/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/build/classes/java/main/com/tw/MultiplicationTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/build/reports/tests/test/classes/com.tw.MultiplicationTableTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/build/reports/tests/test/classes/com.tw.MultiplicationTableTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/build/reports/tests/test/packages/com.tw.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/build/reports/tests/test/packages/com.tw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/build/test-results/test/TEST-com.tw.MultiplicationTableTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/build/test-results/test/TEST-com.tw.MultiplicationTableTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-multiplication-table/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice-multiplication-table/src/main/java/com/tw/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice-multiplication-table/src/main/java/com/tw/MultiplicationTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +74,7 @@
     "last_opened_file_path": "D:/practice-multiplication-table"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MultiplicationTableTest.should_return_true_when_validate_given_start_4_and_end_100">
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tw.MultiplicationTable" />
       <module name="multiplication-table-practice.main" />
@@ -162,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MultiplicationTableTest" />
         <item itemvalue="JUnit.MultiplicationTableTest.should_return_true_when_validate_given_start_4_and_end_100" />
         <item itemvalue="JUnit.MultiplicationTableTest.should_return_multiply_table_when_multiply_given_start_number_2_end_number_5" />
         <item itemvalue="JUnit.MultiplicationTableTest.should_return_multiplication_line_when_multiply_given_start_2_and_row_5" />
         <item itemvalue="JUnit.MultiplicationTableTest.should_return_multiplication_expression_when_multiply_given_multiplicand_2_and_multiplier_3" />
-        <item itemvalue="Gradle.MultiplicationTableTest" />
       </list>
     </recent_temporary>
   </component>
